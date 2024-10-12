@@ -6,6 +6,7 @@
 * gilton posada 
 * viviana moreno 
 * santiago suaza
+* 
 **Descripción:**
 Este proyecto implementa un sistema para gestionar socios de un club,
 incluyendo afiliados, facturas y generación de deudas.
